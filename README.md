@@ -7,7 +7,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=JasurbekUz" alt="visitor badge"/>
 </p>
 
-## ⚡ Technologies
+## ⚡Languages and Technologies
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
